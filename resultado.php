@@ -1,13 +1,9 @@
-<!--
-Desenvolvido por Designer Lucas
-www.designerlucas.net
--->
 <!doctype html>
 <html>
 
 <head>
 <meta charset="utf-8">
-<title>Calculadora IMC</title>
+<title>IMC</title>
 <link href="enc/estilo.css" rel="stylesheet" type="text/css">
 </head>
 
